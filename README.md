@@ -1,6 +1,3 @@
-# gofiberapp
- A quickstart for your golang fiber apps
-
 # Go Fiber App
 
 ## About
